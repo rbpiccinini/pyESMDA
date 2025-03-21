@@ -1,6 +1,6 @@
 # pyESMDA
 
-Simple implementation of the Ensemble-Smoother with Multiple Data Assimilation (ES-MDA) method for data assimilation.
+Simple implementation of the Ensemble-Smoother with Multiple Data Assimilation (ES-MDA) method.
 
 The objective is to study the method with simple models.
 
