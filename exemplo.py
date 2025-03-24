@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  4 14:53:42 2024
 
-@author: BFV8
+@author: Rodrigo Piccinini (rbpiccinini at gmail)
 """
 
 import numpy as np
