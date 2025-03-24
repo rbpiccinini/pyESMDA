@@ -3,6 +3,8 @@
 """
 Small library for applications of the ES-MDA method in reservoir engineering.
 
+author: Rodrigo Piccinini (rbpiccinini at gmail)
+
 Reference:
 
 [1] Lacerda, J. M., Emerick, A. A., & Pires, A. P. (2019). Methods to mitigate loss of variance due to sampling errors in ensemble data assimilation with non-local model parameters.
